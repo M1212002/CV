@@ -1,0 +1,147 @@
+@media screen and (min-width: 576px){
+    .sec3 h3::after{
+        top: 120px;
+        left: 250px;
+    }
+    .portfolio h3::after{
+        top: 170px;
+        left: 230px;
+    }
+    .blog h3::after{
+        top: 170px;
+        left: 230px;
+    }
+    .blog .card-body::after{
+        top: -15px;
+        left: 150px;
+    }
+    
+    .blog .card-body::before{
+        top: -10px;
+        left: 170px;
+    }
+    
+    .blog .travel::before{
+        top: -10px;
+        left: 180px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .sec3 h3::after{
+        top: 120px;
+        left: 330px;
+    }
+    .portfolio h3::after{
+        top: 170px;
+        left: 310px;
+    }
+    .blog h3::after{
+        top: 170px;
+        left: 340px;
+    }
+    .blog .card-body::after{
+        top: -15px;
+        left: 50px;
+    }
+    
+    .blog .card-body::before{
+        top: -10px;
+        left: 70px;
+    }
+    
+    .blog .travel::before{
+        top: -10px;
+        left: 80px;
+    }
+    .last button{
+        width: 60%;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .sec3 h3::after{
+        top: 120px;
+        left: 440px;
+    }
+    .portfolio h3::after{
+        top: 170px;
+        left: 440px;
+    }
+    .blog h3::after{
+        top: 170px;
+        left: 440px;
+    }
+    .blog .card-body::after{
+        top: -15px;
+        left: 80px;
+    }
+    
+    .blog .card-body::before{
+        top: -10px;
+        left: 100px;
+    }
+    
+    .blog .travel::before{
+        top: -10px;
+        left: 110px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .sec3 h3::after{
+        top: 120px;
+        left: 530px;
+    }
+    .portfolio h3::after{
+        top: 170px;
+        left: 530px;
+    }
+    .blog h3::after{
+        top: 170px;
+        left: 530px;
+    }
+    .blog .card-body::after{
+        top: -15px;
+        left: 110px;
+    }
+    
+    .blog .card-body::before{
+        top: -10px;
+        left: 130px;
+    }
+    
+    .blog .travel::before{
+        top: -10px;
+        left: 140px;
+    }
+}
+
+@media screen and (min-width: 1400px){
+    .sec3 h3::after{
+        top: 120px;
+        left: 620px;
+    }
+    .portfolio h3::after{
+        top: 170px;
+        left: 620px;
+    }
+    .blog h3::after{
+        top: 170px;
+        left: 620px;
+    }
+    .blog .card-body::after{
+        top: -15px;
+        left: 140px;
+    }
+    
+    .blog .card-body::before{
+        top: -10px;
+        left: 160px;
+    }
+    
+    .blog .travel::before{
+        top: -10px;
+        left: 170px;
+    }
+}

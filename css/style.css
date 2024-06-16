@@ -91,6 +91,7 @@ ul{
     font-weight: 800;
     font-size: 30px;
     font-family: "Montserrat", sans-serif;
+    padding-top: 60px;
 }
 
 #About span{
@@ -231,11 +232,11 @@ ul{
 #services h3::after{
     content: "";
     position: absolute;
-    width: 15%;
+    width: 40%;
     background-image: url(../imgs/dots.png);
     background-repeat: repeat;
     bottom: -5px;
-    left: 550px;
+    left: 130px;
     height: 30px;
     z-index: -1;
 }
@@ -279,11 +280,11 @@ ul{
 #portfolio h3::after{
     content: "";
     position: absolute;
-    width: 15%;
+    width: 40%;
     background-image: url(../imgs/dots.png);
     background-repeat: repeat;
     bottom: -5px;
-    left: 550px;
+    left: 140px;
     height: 30px;
     z-index: -1;
 }
@@ -377,11 +378,11 @@ ul{
 #testimonials h3::after{
     content: "";
     position: absolute;
-    width: 20%;
+    width: 55%;
     background-image: url(../imgs/dots.png);
     background-repeat: repeat;
     bottom: -5px;
-    left: 530px;
+    left: 110px;
     height: 30px;
     z-index: -1;
 }
@@ -471,11 +472,11 @@ ul{
 #team h3::after{
     content: "";
     position: absolute;
-    width: 15%;
+    width: 50%;
     background-image: url(../imgs/dots.png);
     background-repeat: repeat;
     bottom: -5px;
-    left: 510px;
+    left: 100px;
     height: 30px;
     z-index: -1;
 }
@@ -625,11 +626,11 @@ ul{
 #contact h3::after{
     content: "";
     position: absolute;
-    width: 20%;
+    width: 60%;
     background-image: url(../imgs/dots.png);
     background-repeat: repeat;
     bottom: -5px;
-    left: 490px;
+    left: 80px;
     height: 30px;
     z-index: -1;
 }
